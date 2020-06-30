@@ -1,2 +1,2 @@
 # portfolio_ab
-A new and improved portfolio site
+A quick lab and professional site
